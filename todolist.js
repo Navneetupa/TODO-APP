@@ -1,6 +1,6 @@
 function addTask() {
   
-  const taskText = document.createElement('textarea');
+  const taskText = document.createElement('span');
   taskText.textContent = document.getElementById('inputTask').value;
 
   if (taskText.textContent.trim() === "") {

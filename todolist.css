@@ -3,10 +3,10 @@ body {
   padding: 0;
   display: flex;
   justify-content: center;
-  align-items: center;
-  height: 100vh;
   background-color: #e6e6e6;
   font-family: Arial, sans-serif;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
 
 .container {
